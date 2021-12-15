@@ -1,19 +1,19 @@
 ## Crypto Arbitrage
 
-In this Challenge, you'll take on the role of an analyst at a high-tech investment firm. The vice president (VP) of your department is considering arbitrage opportunities in Bitcoin and other cryptocurrencies. As Bitcoin trades on markets across the globe, can you capitalize on simultaneous price dislocations in those markets by using the powers of Pandas?
+In this project, I take on the role of an analyst at an investment firm. I am considering arbitrage opportunities in Bitcoin and other cryptocurrencies. As Bitcoin trades on markets across the globe, can I capitalize on simultaneous price dislocations in those markets by using the powers of Pandas?
 
-For this assignment, you’ll sort through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. Your task is to apply the three phases of financial analysis to determine if any arbitrage opportunities exist for Bitcoin.
+For this project, I'll sort through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. My task is to apply the three phases of financial analysis to determine if any arbitrage opportunities exist for Bitcoin.
 
-This aspect of the Challenge will consist of 3 phases.
+This aspect of the program will consist of 3 phases.
 
-1. Collect the data.
+1. Collecting the data.
 
-2. Prepare the data.
+2. Preparing the data.
 
-3. Analyze the data. 
+3. Analyzing the data. 
 ---
 
-## Collect the Data
+## Collecting the Data
 
 To collect the data that you’ll need, complete the following steps:
 
@@ -78,7 +78,7 @@ Sort through the time series data associated with the bitstamp and coinbase Data
 
 **Question** Based on the visualizations of the different time periods, has the degree of spread change as time progressed?
 
-**Answer** YOUR ANSWER HERE
+**Answer** MY ANSWER 
 
 Yes, there is a samller degree of spread in the later sample of months I chose from.
 

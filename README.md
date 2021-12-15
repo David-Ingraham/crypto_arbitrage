@@ -1,4 +1,4 @@
-## Crypto Arbitrage
+## Crypto Arbitrage Guide
 
 In this project, I take on the role of an analyst at an investment firm. I am considering arbitrage opportunities in Bitcoin and other cryptocurrencies. As Bitcoin trades on markets across the globe, can I capitalize on simultaneous price dislocations in those markets by using the powers of Pandas?
 
